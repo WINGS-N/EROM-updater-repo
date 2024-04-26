@@ -1,5 +1,11 @@
 Welcome to the NcX changelog
 
+Changelog 20240401
+• Security update: April 2024
+• Fix food camera
+• Update to bit 7 baseband
+
+
 Changelog 20240201
 • Security update: February 2024
 • Unlimited Samsung paid Theme trials
