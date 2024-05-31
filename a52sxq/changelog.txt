@@ -1,5 +1,9 @@
 Welcome to the NcX changelog
 
+Changelog 20240402
+• OneUI update: OneUI 6.1
+
+
 Changelog 20240401
 • Security update: April 2024
 • Fix food camera
