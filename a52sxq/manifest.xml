@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>NcX ROM</RomName>
-  <VersionName>OneUI 6.1 Update</VersionName>
-  <BuildNumber type="integer">20240402</BuildNumber>
-  <DownloadURL>https://downloads.simon1511.de/s/RAADaBRFQiFnZpW/download/OTA-20240402-a52sxq.zip</DownloadURL>
+  <VersionName>20240403 Update</VersionName>
+  <BuildNumber type="integer">20240403</BuildNumber>
+  <DownloadURL>https://downloads.simon1511.de/s/af8ymi2YkEfYzka/download/OTA-20240403-a52sxq.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1</OneUIVer>
-  <CheckMD5>91542ac308bfea60b0c2135ebb9d4d18</CheckMD5>
-  <FileSize type="long">3635435598</FileSize>
+  <CheckMD5>c3f7ba5bfc8019460d9644d67938934e</CheckMD5>
+  <FileSize type="long">3647708262</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/ShaDisNX255/NcX_OnUpdate/1035d72bc45728992d5ba59b44915635765ab8f6/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/ShaDisNX255/NcX_OnUpdate/fourteen/a52sxq/changelog.txt</ChangelogURL>

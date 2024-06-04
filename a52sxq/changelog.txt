@@ -1,5 +1,10 @@
 Welcome to the NcX changelog
 
+Changelog 20240403
+• Add Google AI Wallpapers
+• Add Samsung AI photo editor
+
+
 Changelog 20240402
 • OneUI update: OneUI 6.1
 

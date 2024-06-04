@@ -15,7 +15,7 @@ setdefault devices off
 #Print
 ui_print " "
 ui_print " ___________________________________"
-ui_print "       OneUI 6.1 update - A52s      "
+ui_print "       20240403 update - A52s       "
 ui_print " ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯"
 ui_print " The following update uses bootloader bit U7/S7 "
 ui_print " Meaning that it may brick your device if you do not update "
