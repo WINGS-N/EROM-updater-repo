@@ -1,5 +1,10 @@
 Welcome to the NcX changelog
 
+Changelog 20240601
+• Security update: June 2024
+• Update to bit 8 firmware
+• Add extra video wallpaper
+
 Changelog 20240403
 • Add Google AI Wallpapers
 • Add Samsung AI photo editor
