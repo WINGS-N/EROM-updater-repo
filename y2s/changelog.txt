@@ -1,0 +1,6 @@
+Welcome to the ExtremeROM (WINGS-N) changelog
+
+
+
+Changelog 22.05.2025
+• Initial patch to support Galaxy S20+ devices

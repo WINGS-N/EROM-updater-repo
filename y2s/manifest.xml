@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OnOTAInfo>
+  <RomName>WINGS-N/ExtremeROM</RomName>
+  <VersionName>20250522 Update</VersionName>
+  <BuildNumber type="integer">20250522</BuildNumber>
+  <DownloadURL>WAIT</DownloadURL>
+  <AndroidVer>15</AndroidVer>
+  <OneUIVer>7.0</OneUIVer>
+  <CheckMD5>0eb3c9c8212c6fe10c58c3753135fcf8</CheckMD5>
+  <FileSize type="long">3659247455</FileSize>
+  <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
+  <ChangelogHeader>https://raw.githubusercontent.com/WINGS-N/ExtremeROM/refs/heads/fifteen/readme-res/banner.png</ChangelogHeader>
+  <ChangelogURL>https://raw.githubusercontent.com/WINGS-N/EROM-updater-repo/fourteen/y2s/changelog.txt</ChangelogURL>
+</OnOTAInfo>
